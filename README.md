@@ -1,5 +1,5 @@
 # Redux Boilerplate
-> **Next.ts Redux Boilerplate**
+> **Next.ts Redux Boilerplate Template**
 
 ## Tech
 * **TypeScript**
